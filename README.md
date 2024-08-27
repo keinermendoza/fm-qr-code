@@ -6,12 +6,12 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](/src/qr-code.png)
+![Screenshot](/src/qr-code.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Available on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-card-component---my-very-fist-step-in-frontend-mentor-hm94GrKb1S)
+- Live Site URL: [Hosted on Vercel](https://fm-qr-code-rho.vercel.app/)
 
 ## My process
 
@@ -21,4 +21,3 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
